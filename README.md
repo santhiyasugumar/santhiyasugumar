@@ -1,6 +1,6 @@
 <h3 align="center">Full stack developer</h3>
 
-- 🌱 I’m currently learning **NodeJs, Vue**
+- 🌱 I’m currently learning **Magento 2**
 
 - 💬 Ask me about **CodeIgniter, PHP, PSQL**
 
