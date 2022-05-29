@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/santhiyasugumar" target="blank"><img align="center" src="https://symbols-electrical.getvecta.com/stencil_87/40_linkedin-tile.82c85ff576.svg" alt="aghilanbaskar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/santhiyasugumar" target="blank"><img align="center" src="https://symbols-electrical.getvecta.com/stencil_87/40_linkedin-tile.82c85ff576.svg" alt="santhiyasugumar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
